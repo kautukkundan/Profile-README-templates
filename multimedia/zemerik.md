@@ -183,3 +183,7 @@ const Zemerik = {
   <img src="https://komarev.com/ghpvc/?username=zemerik&label=Visitors&color=0e75b6&style=flat" alt = "Visitors" /> 
   <img src="https://img.shields.io/github/followers/zemerik.svg?style=social&label=Followers&maxAge=2592000" alt = "Github Followers" />
 </p>
+
+<p align = "center">
+    ⭐ From <a href = "https://github.com/Zemerik">Zemerik</a>
+</p>
