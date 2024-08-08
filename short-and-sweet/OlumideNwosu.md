@@ -16,9 +16,9 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/nwosu-olumide-b7941318b/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/olumidenwosu) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/olumidayy) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>](https://t.me/olumidayy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=olumidayy&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkijanuarr&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/olumidayy)
+![Profile views](https://github.com/rizkijanuarr)
 
 ⭐️ From [olumidayy](https://github.com/olumidayy)
 
