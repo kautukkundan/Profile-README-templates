@@ -110,6 +110,4 @@ Hi, I'm **Namnika, a Top 100 Scoring Finalists teams globally in IBM TechXchange
 
 ------
 
-Credit: [Namnika Janbandhu](https://github.com/Namnika)
-
-Last Edited on: 24/10/2024 
+⭐️ From [Namnika](https://github.com/Namnika)
