@@ -92,3 +92,5 @@ Feel free to reach out to me:
 ---
 
 <p align="center">Made with ❤️ by <b>Hardik Gayner</b></p>
+
+⭐ From [aeris170](https://github.com/imHardik1606)
